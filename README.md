@@ -1,16 +1,27 @@
-## Hi there 👋
+# Fariba Shamshad
 
-<!--
-**FaribaShamshad/FaribaShamshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Software Engineering student at the University of Engineering and Technology, Lahore. I am passionate about software development, database design, and building real-world applications using modern tools and technologies.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C#, SQL, Python |
+| **Tools & Platforms** | Git, GitHub, Visual Studio Code, Visual Studio |
+| **Databases** | SQL Server, MySQL, XAMPP |
+| **Core Subjects** | Data Structures & Algorithms, Database Systems, Object-Oriented Programming |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Crime Investigation Simulator
+- Console/Desktop-based application developed in C# with SQL database integration.
+- Implemented object-oriented principles, input validations, and user authentication workflows.
+
+### Automatic Door Control System
+- Digital Logic Design project utilizing IR sensors, truth tables, Karnaugh maps, and combinational logic circuits.
+
+## Education
+- **Bachelor of Science in Software Engineering** — Institute of Data Science, UET Lahore
+
+## Contact
+- **Email:** freebashamshad@gmail.com
+- **GitHub:** [@FaribaShamshad](https://github.com/FaribaShamshad)
